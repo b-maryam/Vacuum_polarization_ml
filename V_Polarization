@@ -1,0 +1,12 @@
+vacuum-polarization-ml/
+├── diagrams/
+│   └── feynman_vacuum_polarization.png
+├── models/
+│   └── trained_amplitude_predictor.h5
+├── src/
+│   ├── feynman_diagram.py
+│   ├── analytical_calculations.py
+│   ├── ml_model.py
+│   └── decay_rate.py
+├── requirements.txt
+└── README.md
